@@ -23,5 +23,7 @@ http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
 
 	<!-- 配置注解驱动的Spring MVC Controller 的编程模型.注:次标签只在 Servlet MVC工作! -->
 	<mvc:annotation-driven />
+	
+	
 
 </beans>  
